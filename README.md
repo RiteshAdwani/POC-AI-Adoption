@@ -139,13 +139,12 @@ This documentation provides comprehensive guidelines for AI-assisted React devel
 - [React TypeScript Guide](https://react-typescript-cheatsheet.netlify.app)
 
 ### Security Resources
-- [OWASP React Security Cheat Sheet](https://cheatsheetseries.owasp.org/cheatsheets/React_Security_Cheat_Sheet.html)
+- [OWASP Top 10](https://www.blackduck.com/glossary/what-is-owasp-top-10.html)
 - [React Security Best Practices](https://snyk.io/blog/10-react-security-best-practices/)
 
 ### Performance Resources
-- [React Performance Documentation](https://react.dev/learn/render-and-commit)
 - [Web.dev Performance Guides](https://web.dev/performance/)
-- [React DevTools Profiler Guide](https://react.dev/blog/2018/09/10/introducing-the-react-profiler)
+- [React DevTools Profiler Guide](https://react.dev/reference/react/Profiler)
 
 ### AI Development Resources
 - [GitHub Copilot Documentation](https://docs.github.com/en/copilot)
